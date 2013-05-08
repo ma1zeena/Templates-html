@@ -1,0 +1,1254 @@
+//this is the template of www.nuclearvideosofficial.blogspot.com
+//dont delete the credits
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<script language='javascript'>var txt=":::Welcome to NuclearVideosHD Official Website::: ";var veloc=100;var refr=null;function rotulo_title(){document.title=txt;txt=txt.substring(1,txt.length)+txt.charAt(0);refr=setTimeout("rotulo_title()",veloc);}rotulo_title();</script>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var b=window,e="jstiming",g="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){c=void 0!=c?c:(new Date).getTime();this.t[a]=[c,d]};this[g]("start",null,a)}var a=new d;b.jstiming={Timer:d,load:a};if(b.performance&&b.performance.timing){var a=b.performance.timing,c=b[e].load,f=a.navigationStart,a=a.responseStart;0<f&&a>=f&&(c[g]("_wtsrt",void 0,f),c[g]("wtsrt_","_wtsrt",a),c[g]("tbsd_","wtsrt_"))}try{a=null,b.chrome&&b.chrome.csi&&(a=Math.floor(b.chrome.csi().pageT),c&&0<f&&(c[g]("_tbnd",void 0,b.chrome.csi().startE),
+c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<f&&(c[g]("_tbnd",void 0,b.external.startE),c[g]("tbnd_","_tbnd",f))),a&&(b[e].pt=a)}catch(l){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[e].load[g]("aft")};var h=!1;function k(){h||(h=!0,b[e].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",k,!1):b.attachEvent("onscroll",k);
+ })();</script>
+<meta content='true' name='MSSmartTagsPreventParsing'/>
+<meta content='blogger' name='generator'/>
+<link href='http://nuclearvideosofficial.blogspot.com.br/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://nuclearvideosofficial.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="NuclearVideos Official - Atom" href="http://nuclearvideosofficial.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="NuclearVideos Official - RSS" href="http://nuclearvideosofficial.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="NuclearVideos Official - Atom" href="http://www.blogger.com/feeds/2829566807005100682/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=2829566807005100682" />
+<link rel="me" href="http://www.blogger.com/profile/17638597407012135458" />
+<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://nuclearvideosofficial.blogspot.com/" />
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>NuclearVideos OfficialNuclearVideosHD Official</title>
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/static/v1/widgets/1832531788-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.google.com/uds/solutions/videobar/gsvideobar.css' />
+<link type="text/css" rel="stylesheet" href="//www.blogger.com/dyn-css/authorization.css?targetBlogID=2829566807005100682&zx=613eeb06-4e09-4d08-b278-1518f839c81c"/>
+<style id='page-skin-1' type='text/css'><!--
+/*
+/*
+Theme Name: Simpsons Template Nuclear Videos HD
+Theme URI: made by Tapped Out Production TM
+Description:. dont copy this template, it was made with hard work, if u copy that, you are going to enter in serious trouble, make sure dont edit this part too, if u wanna your one, make it, if u put it at your site, never edit this part, and the copyright part at the final page
+Version: 1.0.0
+Author: Giovani (ma1zeena)
+Author Tapped Out Production
+Thanks for using my template - TappedOut Production
+Tags: two-columns, artistic, fixed-width
+*/
+/***********************************
+Main Styles
+***********************************/
+body, .body-fauxcolumn-outer {
+padding: 0;
+margin: 0;
+font-size: 12px;
+font-family: tahoma, arial, sans-serif;
+text-align: center;
+color: #000;
+background:#FEF457 url(http://oi40.tinypic.com/v6q344.jpg) no-repeat top center;
+}
+.wrap {
+width: 963px;
+margin: 0 auto;
+text-align: left;
+display: inline-block;
+background: url("http://4.bp.blogspot.com/_KtmPwZMZ59Q/TKqUfIOLAnI/AAAAAAAABhM/gfnbsAClUBs/s1600/contentbg.gif") repeat-y;
+}
+.content {
+width: 963px;
+margin: 0 auto;
+text-align: left;
+display: inline-block;
+background: url("http://4.bp.blogspot.com/_KtmPwZMZ59Q/TKqW4ExPaLI/AAAAAAAABjs/uYYt3CopS0A/s1600/contenttop.gif") no-repeat;
+}
+.posts-wrap {
+width: 662px;
+padding-left: 4px;
+float: left;
+}
+.sidebar-wrap {
+float: right;
+}
+*{padding: 0; margin: 0;}
+a {text-decoration: none;}
+p {color: #5b5b5b; font-size: 13px; line-height: 20px; padding-top: 10px; padding-bottom: 10px;}
+span {color: #5b5b5b;}
+h1 { letter-spacing: -1px; font-size: 25px;}
+.left {float: left;}
+.right {float: right;}
+.center {text-align: center;}
+.clear {clear: both;}
+img { border: none; }
+img.right {float: right; clear: none; margin: 0 0 1em 1em}
+img.left {float: left; clear: none; margin: 0 1em 1em 0}
+img.center {display: block; margin: 1em auto; text-align: center}
+.marginauto {width: 963px; margin: 0 auto;}
+.iblock {display: inline-block;}
+.preload {display:none; width: 0; height: 0;}
+/***********************************
+Topbar
+***********************************/
+.banner {
+width: 960px;
+padding-left: 30px;
+padding-right: 11px;
+height: 248px;
+margin: 0 auto;
+}
+.logo{
+height: 220px;
+display: block;
+float: left;
+}
+.logo a {
+width: 208px;
+height:100px;
+margin-right: 15px;
+display: block;
+float: left;
+}
+.slogan {
+line-height: 53px;
+color: #93b4c8;
+font-size: 15px;
+}
+#searchform2 {
+width: 270px;
+height: 28px;
+padding-top: 10px;
+float: right;
+}
+#searchform2 #s2 {
+width: 201px;
+height: 18px;
+padding: 8px;
+float: left;
+border: none;
+color: #93b4c8;
+background: url("http://4.bp.blogspot.com/_KtmPwZMZ59Q/TKqUyAeH_-I/AAAAAAAABik/vBnEKu3qywA/s1600/searchbar.gif") no-repeat;
+}
+#searchform2 #searchsubmit2 {
+width: 35px;
+height: 34px;
+float: left;
+font-family: tahoma;
+font-weight: bold;
+color: #fff;
+font-size: 12px;
+border: none;
+cursor: pointer;
+background: url("http://3.bp.blogspot.com/_KtmPwZMZ59Q/TKqU51KbvgI/AAAAAAAABis/QhaahR7k78c/s1600/searchbutton.gif") no-repeat;
+}
+.topbars {
+height: 41px;
+font-size: 13px;
+display: inline-block;
+clear: both;
+float: left;
+background: url("http://2.bp.blogspot.com/_KtmPwZMZ59Q/TKqU6EH1QNI/AAAAAAAABi0/V-FlhYd9pic/s1600/topbarbg.gif") repeat-x;
+}
+.topbarleft {
+width: 5px;
+height: 41px;
+float: left;
+background: url("http://2.bp.blogspot.com/_KtmPwZMZ59Q/TKqU6mLHJKI/AAAAAAAABjE/G0auSKJ_5So/s1600/topbarleft.gif") no-repeat;
+}
+.topbarright {
+width: 5px;
+height: 41px;
+float: left;
+background: url("http://1.bp.blogspot.com/_KtmPwZMZ59Q/TKqU66WFr2I/AAAAAAAABjM/3l5uA7K1W8E/s1600/topbarright.gif") no-repeat;
+}
+.topnav {
+float: left;
+}
+.topnav li a{
+width: 90px;
+height: 28px;
+padding-top: 13px;
+text-align: center;
+font-family: tahoma;
+display: block;
+float: left;
+}
+.topnav li{
+display: block;
+float: left;
+}
+.page_item a{
+color: #a6d1db;
+}
+.page_item a:hover{
+color: #fff;
+}
+.current_page_item a{
+color: #444;
+background: url("http://1.bp.blogspot.com/_KtmPwZMZ59Q/TKqU6LfouXI/AAAAAAAABi8/HjQOMzA2aiY/s1600/topbarhover.gif") no-repeat;
+}
+.current_page_item a:hover {
+color: #444;
+}
+/***********************************
+Sidebar
+***********************************/
+.sidebar-wrap {
+width: 281px;
+padding-right: 11px;
+}
+.sidebar-wrap .widgetcontent .widget h2 {
+padding-top: 15px;
+padding-left: 12px;
+padding-bottom: 10px;
+text-align:left;
+font-family: tahoma;
+border-top: 1px solid #fff;
+width: 257px;
+margin-bottom: 5px;
+color: #585858;
+font-size: 24px;
+font-family: "trebuchet MS";
+}
+.sidebar-wrap .widgetcontent .widget {
+width: 281px;
+background: #f7f7f7;
+border-bottom: 1px solid #dbdbdb;
+}
+.sidebar-wrap .widgetcontent .widget .widget-content li, .sidebar-wrap .widgetcontent .widget .widget-content ul li{
+width: 228px;
+padding: 9px 0 0 29px;
+margin-bottom: 8px;
+color: #444;
+font-size: 13px;
+}
+.sidebar-wrap .widgetcontent .widget .widget-content{
+width: 257px;
+padding: 0 10px 20px 10px;
+}
+.textwidget {
+padding: 8px;
+line-height: 20px;
+color: #444;
+background: #fff;
+border: 1px solid #dfdfdf;
+}
+#recentposts3 {
+width: 63px;
+padding: 2px;
+color: #fff;
+margin: 0;
+margin-right: 2px;
+display: block;
+float: left;
+background: #62afd3;
+}
+#recentcomments3 {
+width: 102px;
+padding: 2px;
+color: #444;
+margin: 0;
+margin-right: 2px;
+display: block;
+float: left;
+background: #e7e7e7;
+}
+#tags3 {
+width: 51px;
+padding: 2px;
+color: #444;
+margin: 0;
+display: block;
+float: left;
+background: #e7e7e7;
+}
+#tags3:hover {
+text-decoration: none;
+}
+#recentcomments3:hover {
+text-decoration: none;
+}
+#recentposts3:hover {
+text-decoration: none;
+}
+.tagcloud li a{
+display: inline;
+background: none;
+border: none;
+}
+.tagcloud li a:hover{
+background: none;
+border: none;
+}
+.widgettop {
+padding: 15px;
+border-bottom: 1px solid #dbdbdb;
+}
+/***********************************
+Search
+***********************************/
+#searchform{
+width: 230px;
+height: 29px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin: 0 auto;
+text-align: center;
+}
+#searchform #s{
+width: 152px;
+height: 17px;
+padding: 5px;
+margin: 0;
+color: #333;
+display: block;
+float: left;
+text-align: left;
+border: 1px solid #c2c2c2;
+border-right: none;
+}
+#searchform #searchsubmit {
+width: 63px;
+height: 29px;
+padding: 0;
+margin: 0;
+color: #444;
+display: block;
+float: left;
+cursor: pointer;
+text-align: center;
+border: 1px solid #d3d3d3;
+background: #dcdcdc;
+}
+/***********************************
+Navigation
+***********************************/
+.navigation {
+height: 30px;
+padding: 0;
+padding-left: 60px;
+padding-top: 15px;
+clear: both;
+color: #2e4f85;
+}
+#post-single .navigation {
+padding-left: 0;
+}
+.navigation a{
+color: #777670;
+text-decoration: underline;
+}
+.nav-prev a {
+color: #777670;
+float: left;
+}
+.nav-next a {
+color: #777670;
+float: right;
+}
+/***********************************
+Post
+***********************************/
+.post {
+width: 560px;
+padding-left: 10px;
+margin-top: 20px;
+text-align: left;
+display: inline-block;
+}
+.post-date {
+width: 70px;
+height: 44px;
+margin-top: 20px;
+float: left;
+text-align: center;
+background: url("http://1.bp.blogspot.com/_KtmPwZMZ59Q/TKqW4fxjakI/AAAAAAAABj0/E_IHymyFNvM/s1600/date.gif") no-repeat;
+}
+.post-date .month {
+color: #fff;
+font-size: 11px;
+text-align: center;
+}
+.post-date .day {
+color: #222;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+}
+.entry-content {
+padding-top: 6px;
+padding-bottom: 10px;
+font-size: 13px;
+color: #818080;
+line-height:24px;
+clear: both;
+}
+#post-single {
+width: 620px;
+}
+/***********************************
+Entry title/header/components
+***********************************/
+.entry-title{
+margin-bottom: 10px;
+font-size: 30px;
+display: block;
+line-height: 24px;
+font-family: "trebuchet MS";
+color: #292929;
+}
+.entry-title-single{
+margin-bottom: 5px;
+}
+.entry-title a{
+color: #292929;
+}
+.entry-title-single a{
+padding-left: 10px;
+}
+.postmeta {
+font-size: 13px;
+color: #4a4a4a;
+}
+.postmeta span{
+color: #4a4a4a;
+}
+.postmeta a{
+color: #3b86a9;;
+}
+.postmeta a:hover{
+text-decoration: underline;
+}
+.metabottom {
+height: 22px;
+padding-top: 5px;
+padding-left: 40px;
+padding-right: 15px;
+color: #4a4a4a;
+float: left;
+}
+.metabottom a{
+color: #4a4a4a;
+}
+.metatags {
+}
+.metacomments {
+background: url("http://3.bp.blogspot.com/_KtmPwZMZ59Q/TKqUe0HnlmI/AAAAAAAABhE/Y8qb9zaK37s/s1600/comments.gif") no-repeat;
+}
+.metareadmore {
+}
+.entry-title-single {
+margin-bottom: 10px;
+}
+.postmeta-single a {
+color: #818080;
+}
+/***********************************
+Comments
+***********************************/
+.comment-wrapper {
+margin: 0;
+padding: 10px;
+padding-right: 15px;
+list-style: none;
+margin-top: 20px;
+margin-left: 120px;
+text-align: left;
+display: inline-block;
+clear: both;
+}
+.commentlist ul {
+margin: 0;
+list-style: none;
+text-align: left;
+display: inline-block;
+clear: both;
+}
+.commentlist li {
+height: 1%;
+margin: 0 0 10px;
+padding: 5px 7px 5px 65px;
+position: relative;
+width:80%;
+}
+.commentlist li a{
+color: #498ca4;
+}
+.commentlist li .gravatar-wrap {
+width: 44px;
+height: 44px;
+padding: 3px;
+position:absolute;
+left:7px;
+top:7px;
+background: #dedede;
+}
+.commentlist li .comment-author{
+color: #b12e2d;
+font-size: 18px;
+}
+.commentlist li .comment-author a{
+color: #b12e2d;
+}
+.commentlist li p {
+clear: both;
+font:normal 12px/1.4 helvetica,arial,sans-serif;
+margin:0 0 1em;
+color: #797979;
+line-height: 18px;
+}
+.commentlist li ul {
+font:normal 12px/1.4 helvetica,arial,sans-serif;
+list-style:square;
+margin:0 0 1em;
+padding:0;
+text-indent:0;
+}
+.commentlist .comment-meta {
+font-style: italic;
+color: #b0ac9d;
+}
+.commentlist .left-meta {
+padding-top: 6px;
+display: inline-block;
+float:left;
+}
+#respond {
+text-align:left;
+margin-left:120px;
+width:80%;
+}
+#respond {
+text-align:left;
+background-image: none;
+}
+.comment-notes {
+font-size: 16px;
+font-weight: bold;
+color: #7c795b;
+}
+/***********************************
+Elements
+***********************************/
+h1,h2,h3,h4,h5,h6 {margin:0;padding:0; font-weight:normal; }
+.entry-content h1 {font-size: 1.6em; color: #8f8c7d; margin-bottom: 5px;}
+.entry-content h2 {font-size: 1.5em; color: #8f8c7d; margin-bottom: 3px;}
+.entry-content h3 {font-size: 1.4em;}
+.entry-content h4 {font-size: 1.3em;}
+.entry-content h5 {font-size: 1.2em;}
+.entry-content h6 {font-size: 1.1em;}
+.entry-content table {border:1px solid #D9D9D9;}
+.entry-content th {background-color: #E9E9E9; padding: 5px;}
+.entry-content td {border-top:1px solid #D9D9D9; padding: 5px;}
+.entry-content a {color: #777}
+.entry-content small{color: #777}
+pre {overflow: auto;}
+blockquote {
+padding-left: 5px;
+margin: 20px;
+font-style: oblique;
+color: #777;
+}
+/*-- ================ Elements ================= --*/
+.additional-meta {
+font-size: xx-small;
+}
+ul {
+margin:0;
+padding:0;
+}
+ul li {
+padding:0;
+}
+li {
+list-style-type:none;
+margin:0;
+padding:0;
+}
+.disc {
+list-style-type:disc;
+}
+h2#comments{
+font-size: 19px;
+color: #498ca4;
+font-family: georgia;
+}
+h3#comments{
+margin-top: 10px;
+margin-bottom: 20px;
+font-size: 19px;
+color: #333;
+font-family: georgia;
+}
+h3#comments span{
+color: #777;
+}
+#searchresults {
+padding-top: 30px;
+text-align: left;
+}
+#search {
+width: 98%;
+height: 30px;
+padding-top: 4px;
+padding-left: 2%;
+font-size: 21px;
+color: #000;
+font-family: georgia;
+}
+#searchnone {
+width: 550px;
+padding: 20px;
+text-align: center;
+padding-top: 30px;
+}
+.searchnothingfound {
+margin-top: 50px;
+}
+/* lists inside posts */
+.entry-content ul ol {margin-left:0;}
+.entry-content ul li {margin-left:10px; list-style:disc; list-style-position:inside;}
+.entry-content ul li ol {margin-left:10px;}
+.entry-content ol li {margin-left:5px; list-style: decimal; list-style-position:inside;}
+.entry-content ol li li {margin-left:5px;}
+/***********************************
+Footer
+***********************************/
+#footer {
+background:#170C08 url("http://oi44.tinypic.com/33db4et.jpg") ;
+padding: 0;
+margin: 0 auto;
+width: 940px;
+height:200px;
+clear: both;
+}
+#footer a {
+color:#FFF;
+}
+#footer .credit {
+float:left;
+padding-top: 180px;
+width: 940px;
+text-align: center;
+color:#FFF;
+}
+.avatar-image-container img {
+float:left;
+margin-right:10px;
+float:left;
+width:44px;
+height:44px;
+}
+.widget-item-control { display:none !important }
+#blog-pager {float:left; width:90%;}
+#blog-pager-newer-link{float:left;margin-right:20px;}
+#blog-pager-older-link{float:right;margin-left:20px;}
+.home-link{text-align:center;}
+#navbar-iframe { display: none; }
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi li a {
+display:block;
+margin-left:-50px;
+width:100px;
+height:55px;
+background-color:#141414;  /* Cor de fundo do botão */
+background-repeat:no-repeat;
+background-position:48px center;
+border:1px solid #cfcfcf;  /* Cor da borda do botão*/
+-moz-border-radius:0px 10px 10px 0px;
+-webkit-border-bottom-right-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-khtml-border-bottom-right-radius: 10px;
+-khtml-border-top-right-radius: 10px;
+/*-moz-box-shadow: 0px 4px 3px #000;
+-webkit-box-shadow: 0px 4px 3px #000;
+*/
+opacity:0.8;
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);
+}
+ul#menusisi .home a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-48.png);
+}
+ul#menusisi .twitter a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-48.png);
+}
+ul#menusisi .comentários a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/youtube_circle_color-48.png);
+}
+ul#menusisi .rssfeed a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/instagram_circle_color-48.png);
+}
+ul#menusisi .contato a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/google_circle_color-48.png);
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi li a {
+display:block;
+margin-left:-50px;
+width:100px;
+height:55px;
+background-color:#141414;  /* Cor de fundo do botão */
+background-repeat:no-repeat;
+background-position:48px center;
+border:1px solid #cfcfcf;  /* Cor da borda do botão*/
+-moz-border-radius:0px 10px 10px 0px;
+-webkit-border-bottom-right-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-khtml-border-bottom-right-radius: 10px;
+-khtml-border-top-right-radius: 10px;
+/*-moz-box-shadow: 0px 4px 3px #000;
+-webkit-box-shadow: 0px 4px 3px #000;
+*/
+opacity:0.8;
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);
+}
+ul#menusisi .home a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-48.png);
+}
+ul#menusisi .twitter a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-48.png);
+}
+ul#menusisi .comentários a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/youtube_circle_color-48.png);
+}
+ul#menusisi .rssfeed a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/instagram_circle_color-48.png);
+}
+ul#menusisi .contato a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/google_circle_color-48.png);
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi li a {
+display:block;
+margin-left:-50px;
+width:100px;
+height:55px;
+background-color:#141414;  /* Cor de fundo do botão */
+background-repeat:no-repeat;
+background-position:48px center;
+border:1px solid #cfcfcf;  /* Cor da borda do botão*/
+-moz-border-radius:0px 10px 10px 0px;
+-webkit-border-bottom-right-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-khtml-border-bottom-right-radius: 10px;
+-khtml-border-top-right-radius: 10px;
+/*-moz-box-shadow: 0px 4px 3px #000;
+-webkit-box-shadow: 0px 4px 3px #000;
+*/
+opacity:0.8;
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);
+}
+ul#menusisi .home a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-48.png);
+}
+ul#menusisi .twitter a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-48.png);
+}
+ul#menusisi .comentários a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/youtube_circle_color-48.png);
+}
+ul#menusisi .rssfeed a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/instagram_circle_color-48.png);
+}
+ul#menusisi .contato a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/google_circle_color-48.png);
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi {
+position:fixed;
+margin:0;
+padding:0;
+top:50px;
+left:0;
+list-style:none;
+z-index:9999;
+}
+ul#menusisi li {
+width:100px;
+}
+ul#menusisi li a {
+display:block;
+margin-left:-50px;
+width:100px;
+height:55px;
+background-color:#141414;  /* Cor de fundo do botão */
+background-repeat:no-repeat;
+background-position:48px center;
+border:1px solid #cfcfcf;  /* Cor da borda do botão*/
+-moz-border-radius:0px 10px 10px 0px;
+-webkit-border-bottom-right-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-khtml-border-bottom-right-radius: 10px;
+-khtml-border-top-right-radius: 10px;
+/*-moz-box-shadow: 0px 4px 3px #000;
+-webkit-box-shadow: 0px 4px 3px #000;
+*/
+opacity:0.8;
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);
+}
+ul#menusisi .home a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-48.png);
+}
+ul#menusisi .twitter a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-48.png);
+}
+ul#menusisi .comentários a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/youtube_circle_color-48.png);
+}
+ul#menusisi .rssfeed a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/instagram_circle_color-48.png);
+}
+ul#menusisi .contato a {
+background-image:url(http://cdn3.iconfinder.com/data/icons/free-social-icons/67/google_circle_color-48.png);
+}
+
+--></style>
+<script src='http://www.google.com/jsapi'></script>
+<script>
+google.load("jquery", "1.3.2");
+</script>
+<script type='text/javascript'>
+$(function() {
+$('#menusisi a').stop().animate({'marginLeft':'-50px'},1000);
+$('#menusisi > li').hover(
+function () {
+$('a',$(this)).stop().animate({'marginLeft':'-2px'},200);
+},
+function () {
+$('a',$(this)).stop().animate({'marginLeft':'-50px'},200);
+}
+);
+});
+</script>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body>
+<div class='banner'>
+<div class='logo'></div>
+<div class='topbars'>
+<div class='topbarleft'></div>
+<ul class='topnav'>
+<li class='current_page_item'><a href='/'>Home</a></li>
+<li class='page_item'><a href='http://nuclearvideosofficial.blogspot.com/p/about_3.html' title=''>About</a></li>
+<li class='current_page_item'><a href='http://nuclearvideosofficial.blogspot.com/p/contact.html'>Contact</a></li>
+<li class='current_page_items'><a href='http://www.youtube.com/nuclearvideoshd'>Youtube</a></li>
+<li class='current_page_items'><a href='http://nuclearvideosofficial.blogspot.com/p/downloads.html'>Downloads</a></li>
+</ul>
+<div class='topbarright'></div>
+</div>
+<form action='/search' id='searchform2' method='get'>
+<div><input id='s2' name='q' type='text' value=''/></div>
+<div><input id='searchsubmit2' type='submit' value=''/></div>
+</form>
+</div>
+<div class='wrap'>
+<div class='content'>
+<div class='posts-wrap'>
+<div class='main section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start(name=default) -->
+
+        <div class="date-outer">
+      
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='post-date'>
+<script type='text/javascript'>
+        var timestamp = "Friday, May 3, 2013";
+        if (timestamp != '') {
+                var timesplit = timestamp.split(",");
+                var date_yyyy = timesplit[2];
+                var timesplit = timesplit[1].split(" ");
+                var date_dd = timesplit[2];
+                var date_mmm = timesplit[1].substring(0, 3);
+        }
+</script>
+<span class='month'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<br/>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='post' id='post'>
+<a name='5211816584645437387'></a>
+<h2 class='entry-title'>
+<a href='http://nuclearvideosofficial.blogspot.com.br/2013/05/update.html'>Update !</a>
+</h2>
+<div class='postmeta'>
+</div>
+<div class='entry-content'>
+<div style="text-align: center;">
+Today May 2/2013 we have an little update</div>
+<div style="text-align: center;">
+List of things:</div>
+<div style="text-align: center;">
+-Respectable Moe Suit</div>
+<div style="text-align: center;">
+<img height="292" src="http://tstotips.files.wordpress.com/2013/04/1fe.gif" width="320" /></div>
+<div style="text-align: center;">
+-Limo</div>
+<div style="text-align: center;">
+<img height="240" src="http://tstotips.files.wordpress.com/2013/05/image13.jpg" width="320" /></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+How can i get respectable moe?</div>
+<div style="text-align: center;">
+First of all you need to have moe, and his not a character its a suit, to get it log on and go to your inventory, search for that and click at use, now try to find him at your city and do his quests its cool idea !</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+How can i get the limo?</div>
+<div style="text-align: center;">
+You need 40 Donuts to get it, its a beautiful decoration and give to moe a new quest Fun at Limo that its just for about 60 minutes</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Respectable moe actually have 5 quests, i don't hope EA add more, normally for the suits its just 5-6 quests depending, its a good idea</div>
+<div style="text-align: center;">
+Respectable moe comes with the nws Fox Promotional Episodes of Simpsons</div>
+<div style="text-align: center;">
+stay tunned for more infomation !</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<span style="color: #3d85c6;">WARNING !</span></div>
+<div style="text-align: center;">
+Probably a HUGE update at Tapped Out will arive at May 9, with the sea expansion, minigames, boats and Captain so if it arrive or if not we will make a video/post</div>
+<div style="text-align: center;">
+Thanks for reading until other post !</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<b><span style="color: #cc0000;">Admin</span></b> Giovani</div>
+<div style="text-align: center;">
+NuclearVideosHD</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<img height="224" src="http://tstotips.files.wordpress.com/2013/04/untitled.png" width="400" /></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='metabottom metacomments'><a class='comment-link' href='http://nuclearvideosofficial.blogspot.com.br/2013/05/update.html#comment-form' onclick=''>0
+comments</a></div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div class='post-share-buttons'>
+<a class='share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=5211816584645437387&target=email' target='_blank' title='Email This'>
+<span class='share-button-link-text'>Email This</span></a>
+<a class='share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=5211816584645437387&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'>
+<span class='share-button-link-text'>BlogThis!</span></a>
+<a class='share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=5211816584645437387&target=twitter' target='_blank' title='Share to Twitter'>
+<span class='share-button-link-text'>Share to Twitter</span></a>
+<a class='share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=5211816584645437387&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'>
+<span class='share-button-link-text'>Share to Facebook</span></a>
+<a class='share-button sb-buzz' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=5211816584645437387&target=buzz' onclick='window.open(this.href, "_blank", "height=415,width=690"); return false;' target='_blank' title=''>
+<span class='share-button-link-text'>
+</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'></div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+<div class='hr'></div>
+</div>
+<div class='post-outer'>
+<div class='post-date'>
+<script type='text/javascript'>
+        var timestamp = "
+";
+        if (timestamp != '') {
+                var timesplit = timestamp.split(",");
+                var date_yyyy = timesplit[2];
+                var timesplit = timesplit[1].split(" ");
+                var date_dd = timesplit[2];
+                var date_mmm = timesplit[1].substring(0, 3);
+        }
+</script>
+<span class='month'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<br/>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='post' id='post'>
+<a name='8940117812199602189'></a>
+<h2 class='entry-title'>
+<a href='http://nuclearvideosofficial.blogspot.com.br/2013/05/we-back.html'>We back !</a>
+</h2>
+<div class='postmeta'>
+</div>
+<div class='entry-content'>
+<div style="text-align: center;">
+Sorry guys for the blog inative this 2 days, we was fixing it, we have somethings to say to you. First of all we are not hacking anything anymore, so please don't ask for anything, and don't think that hack will back, because not, its gone, please give some understanding, we have a big loose with this but yeah</div>
+<div style="text-align: center;">
+something are good too, so lets start with the good things:</div>
+<div style="text-align: center;">
+We have like 1,000,000 views at the channel, thanks a lot !</div>
+<div style="text-align: center;">
+The site has an improvement, lits of them</div>
+<div style="text-align: center;">
+-Hack tab deleted</div>
+<div style="text-align: center;">
+-Form for hack deleted</div>
+<div style="text-align: center;">
+-Posts deleted</div>
+<div style="text-align: center;">
+-Credits on the end of page changed</div>
+<div style="text-align: center;">
+-All Tabs changed</div>
+<div style="text-align: center;">
+-Admin fired</div>
+<div style="text-align: center;">
+-More frequency posts</div>
+<div style="text-align: center;">
+i hate this part but, we have some bad news =(</div>
+<div style="text-align: center;">
+-We don't hack anymore</div>
+<div style="text-align: center;">
+-TappedOut Production Channel suspended by google</div>
+<div style="text-align: center;">
+For a while its just this, we was at Black Code, so this is it, i really hope that you understand all, i know that we don't gave you a lot of information of why we stop doing somethings but believe that's for a reason</div>
+<div style="text-align: center;">
+i will post frequently, and particulary thanks to Matt for all</div>
+<div style="text-align: center;">
+and for you too guys =)</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<b><span style="color: #cc0000;">Admin</span></b> Giovani</div>
+<div style="text-align: center;">
+NuclearVideosHD</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<img src="http://rollcallblog.com/wp-content/uploads/2010/10/doh-250x300.png" /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='metabottom metacomments'><a class='comment-link' href='http://nuclearvideosofficial.blogspot.com.br/2013/05/we-back.html#comment-form' onclick=''>0
+comments</a></div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div class='post-share-buttons'>
+<a class='share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=8940117812199602189&target=email' target='_blank' title='Email This'>
+<span class='share-button-link-text'>Email This</span></a>
+<a class='share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=8940117812199602189&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'>
+<span class='share-button-link-text'>BlogThis!</span></a>
+<a class='share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=8940117812199602189&target=twitter' target='_blank' title='Share to Twitter'>
+<span class='share-button-link-text'>Share to Twitter</span></a>
+<a class='share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=8940117812199602189&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'>
+<span class='share-button-link-text'>Share to Facebook</span></a>
+<a class='share-button sb-buzz' href='http://www.blogger.com/share-post.g?blogID=2829566807005100682&postID=8940117812199602189&target=buzz' onclick='window.open(this.href, "_blank", "height=415,width=690"); return false;' target='_blank' title=''>
+<span class='share-button-link-text'>
+</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'></div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+<div class='hr'></div>
+</div>
+
+      </div></div>
+    
+<!-- google_ad_section_end -->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='http://nuclearvideosofficial.blogspot.com.br/'>Home</a>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+<div class='sidebar-wrap'>
+<div class='widgettop'></div>
+<div class='widgetcontent section' id='widgetcontent'><div class='widget LinkList' id='LinkList1'>
+<h2>We have stopped doing tapped out hacks so here is some online ones</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://gamezino.weebly.com/'>GameZino</a></li>
+<li><a href='http://isimpsonhack.weebly.com/'>isimpsonhack</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2829566807005100682&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=widgetcontent' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+<div class='widget VideoBar' id='VideoBar1'>
+<h2 class='title'>Official Videos !</h2>
+<div class='widget-content'>
+<div id='VideoBar1_bar'>
+<span class='videoBar-status'>Loading...</span>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2829566807005100682&widgetType=VideoBar&widgetId=VideoBar1&action=editWidget&sectionId=widgetcontent' onclick='return _WidgetManager._PopupConfig(document.getElementById("VideoBar1"));' target='configVideoBar1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget PopularPosts' id='PopularPosts1'>
+<h2>Popular Posts</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-title'><a href='http://nuclearvideosofficial.blogspot.com.br/2013/05/update.html'>Update !</a></div>
+<div class='item-snippet'> Today May 2/2013 we have an little update   List of things:   -Respectable Moe Suit     -Limo       How can i get respectable moe?   First ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2829566807005100682&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=widgetcontent' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Stats' id='Stats1'>
+<h2>Pageviews !</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<span class='counter-wrapper graph-counter-wrapper' id='Stats1_totalCount'></span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2829566807005100682&widgetType=Stats&widgetId=Stats1&action=editWidget&sectionId=widgetcontent' onclick='return _WidgetManager._PopupConfig(document.getElementById("Stats1"));' target='configStats1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div id='footer'>
+<div class='credit'>Designed By: <a Target='blank' href='http://www.youtube.com/tappedoutproduction1' title='Giovani'>Giovani (TappedOut Production & ma1zeena)</a> | <a href='' rel='bookmark' title='NuclearVideosHD Official Webiste'>NuclearVideosHD Official WebSite</a> by <a href='http://www.nuclearvideosofficial.blogspot.com' rel='bookmark' title=''>Matt, Giovani</a> & Supported by <a href='' title=''>NuclearVideosHD Team</a>
+<a href=''>Copyright&#169; 2013</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/2084472262-widgets.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="//www.google.com/uds/solutions/videobar/gsvideobar.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '2829566807005100682';BLOG_attachCsiOnload(''); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d2829566807005100682','//nuclearvideosofficial.blogspot.com.br/','2829566807005100682');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '2829566807005100682', 'bloggerUrl': 'http://www.blogger.com', 'title': 'NuclearVideos Official', 'pageType': 'index', 'url': 'http://nuclearvideosofficial.blogspot.com.br/', 'canonicalUrl': 'http://nuclearvideosofficial.blogspot.com/', 'canonicalHomepageUrl': 'http://nuclearvideosofficial.blogspot.com/', 'homepageUrl': 'http://nuclearvideosofficial.blogspot.com.br/', 'blogspotFaviconUrl': 'http://nuclearvideosofficial.blogspot.com.br/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '', 'pageTitle': 'NuclearVideos Official', 'encoding': 'UTF-8', 'locale': 'en', 'localeLanguage': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42NuclearVideos Official - Atom\42 href\75\42http://nuclearvideosofficial.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42NuclearVideos Official - RSS\42 href\75\42http://nuclearvideosofficial.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42NuclearVideos Official - Atom\42 href\75\42http://www.blogger.com/feeds/2829566807005100682/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0752829566807005100682\42 /\076', 'meTag': '\74link rel\75\42me\42 href\75\42http://www.blogger.com/profile/17638597407012135458\42 /\76\n', 'openIdOpTag': '\74link rel\75\42openid.server\42 href\75\42http://www.blogger.com/openid-server.g\42 /\76\n\74link rel\75\42openid.delegate\42 href\75\42http://nuclearvideosofficial.blogspot.com/\42 /\76\n', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,e\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){c\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[c,d]};this[g](\42start\42,null,a)}var a\75new d;b.jstiming\75{Timer:d,load:a};if(b.performance\46\46b.performance.timing){var a\75b.performance.timing,c\75b[e].load,f\75a.navigationStart,a\75a.responseStart;0\74f\46\46a\76\75f\46\46(c[g](\42_wtsrt\42,void 0,f),c[g](\42wtsrt_\42,\42_wtsrt\42,a),c[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,b.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.chrome.csi().startE),\nc[g](\42tbnd_\42,\42_tbnd\42,f))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.external.startE),c[g](\42tbnd_\42,\42_tbnd\42,f))),a\46\46(b[e].pt\75a)}catch(l){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[e].load[g](\42aft\42)};var h\75!1;function k(){h||(h\75!0,b[e].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,k,!1):b.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/ef28c3f8c8e1685a', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'widgetcontent', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_VideoBarView', new _WidgetInfo('VideoBar1', 'widgetcontent', null, document.getElementById('VideoBar1'), {'title': 'Official Videos !', 'format': 'HORIZONTAL-SMALL', 'expression': 'ytchannel:nuclearvideoshd'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'widgetcontent', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'widgetcontent', null, document.getElementById('Stats1'), {'title': 'Pageviews !', 'showGraphicalCounter': true, 'showAnimatedCounter': true, 'showSparkline': false, 'statsUrl': '//nuclearvideosofficial.blogspot.com.br/b/stats?style\75BLACK_TRANSPARENT\46timeRange\75ALL_TIME\46token\75Audwhz4BAAA.2Ztisjd361le-7a8478LHU2MrhRjbDCiOfHEZRsbQQI.7Wd37Ud0qzGa7XcrJZ67zA'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': '//www.blogger.com/static/v1/jsbin/27359704-lbx.js', 'lightboxCssUrl': '//www.blogger.com/static/v1/v-css/228702327-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'null', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://nuclearvideosofficial.blogspot.com.br/', 'title': 'Home', 'isCurrentPage': true}, {'href': 'http://nuclearvideosofficial.blogspot.com.br/p/about_3.html', 'title': 'About', 'isCurrentPage': false}, {'href': 'http://nuclearvideosofficial.blogspot.com.br/p/contact.html', 'title': 'Contact', 'isCurrentPage': false}, {'href': 'http://nuclearvideosofficial.blogspot.com.br/p/downloads.html', 'title': 'Downloads', 'isCurrentPage': false}], 'mobile': false}, 'displayModeFull'));
+</script>
+</body>
+<ul id='menusisi'>
+<li class='home'><a href='https://www.facebook.com/pages/Nuclearvideoshd/352709591511848' title='Facebook'></a></li>
+<li class='twitter'><a href='http://www.twitter.com/nuclearvideos' title='Twitter'></a></li>
+<li class='rssfeed'><a href='http://www.instagram.com/nuclearvideoshd' title='Intagram'></a></li>
+<li class='comentários'><a href='http://www.youtube.com/nuclearvideoshd' title='Youtube'></a></li>
+<li class='contato'><a href='http://www.google+/nuclearvideoshd' title='Google +'></a></li>
+</ul>
+</html>
