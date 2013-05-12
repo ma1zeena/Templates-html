@@ -1,0 +1,40 @@
+<!--Foi feito por Giovani, serio... Não roube o html, demorou 5 minutos para fazer, muito tempo ;D-->
+<html>
+<head>
+<center>
+<!--Area do Icone da Internet-->
+<link rel=”icon” href=”favicon.ico” type=”image/x-icon”>
+<link rel=”shortcut icon” href=”favicon.ico” type=”image/x-icon”>
+<!--Fim da Area do Icone da Internet-->
+<!--Cabeçalho-->
+<title>Bem-Vindo !</title>
+<script type="text/javascript">
+</script>
+</head>
+<!--Fim do Cabeçalho-->
+<!--Corpo html-->
+<body onkeydown="return false">
+<h1>Bem-Vindo A Casa de Giovani Castilho na Internet !</h1>
+<button name="<a href="http://www.giovanicastilho.blogspot.com" ></a>Meu Blog</button>
+<hr ></hr>
+<font face=monospace>
+<p>Meu webdesign parece pobre uhm?? É eu sei... Mas desse jeito tá legal :p</p>
+<p>Então... Eu sou o Giovani ( Castilho ), muito prazer :D</p>
+<p>Alguns me conhecem por ma1zeena ou Maizeena, e outros por TappedOut Production, tanto faz...</p>
+<p>Clica naquele botão do começo, e da uma olhada no meu blog, eu blogo informações legais lá !</p>
+<p>Se lembre... <b>NUNCA</b> compre sony xD</p>
+<p>É ruin, quebra rápido e eles não te dão suporte necessário</p>
+<p>
+<img src="http://oi42.tinypic.com/3325bf6.jpg" alt="Giovani Castilho" align="center" width="300" height="300">
+</p>
+| <a href="http://github.com/ma1zeena" >Meus Códigos</a> | <a href="http://sync.com" >Sync. Em Breve</a> |
+<hr ></hr>
+<i><font size="2">Uma produção ( no bloco de notas ) de  <a href="http://www.facebook.com/Maizeena/" >Giovani</a></font></i>
+<!--Fim do Corpo html-->
+<!--Conclusao da Página-->
+<hr ></hr>
+</center>
+</body>
+</html>
+<!--Final do html, Fim do site-->
+<!--O ctrl u ta bloqueado, se quiser alguns tutoriais me contacte ;D-->
